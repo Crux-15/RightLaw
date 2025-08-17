@@ -1,4 +1,4 @@
-# ⚖️ RighLaw  
+# ⚖️ RightLaw  
 
 **Accessible, affordable, and verified legal consultation for everyone in Bangladesh.**  
 
